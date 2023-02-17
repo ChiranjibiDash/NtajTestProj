@@ -1,5 +1,7 @@
 package com.nt.beans;
 
 public class Test {
-   public void m1() {}
+   public void m1() {
+	   System.out.println("Chiranjibi");
+   }
 }
